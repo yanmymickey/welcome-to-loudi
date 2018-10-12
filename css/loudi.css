@@ -1,0 +1,127 @@
+body {
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    list-style: none;
+    float: left;
+}
+li a{
+    list-style: none;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 38px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:darkgray;
+}
+
+div.style1{
+    width: 140px;
+    height: 204px;
+    border: 1px solid black;
+    margin: 70px 0px 0px 30px;
+    background-color: #333;
+    position: absolute;
+    top: 330px;
+    left: 245px;
+}
+div.style2{
+	width: 960px;
+	position: absolute;
+	top: 300px;
+    left: 275px;
+}
+div.style3{
+	width: 800px;
+	height: 1080px;
+	position: absolute;
+	top: 350px;
+	    left: 425px;
+	border:7px groove currentcolor;
+}
+div.style4{
+	width: 800px;
+	height: 1580px;
+	position: absolute;
+	top: 350px;
+    left: 425px;
+	border:7px groove currentcolor;
+}
+div.style5{
+	width: 800px;
+	height: 510px;
+	position: absolute;
+	top: 350px;
+	     left: 425px;
+	border:7px groove currentcolor;
+}
+div.style6{
+	width: 800px;
+	height: 4450px;
+	position: absolute;
+	top: 350px;
+	     left: 425px;
+	border:7px groove currentcolor;
+}
+div.style7{
+	width: 800px;
+	height: 905px;
+	position: absolute;
+	top: 350px;
+	     left: 425px;
+	border:7px groove currentcolor;
+}
+.footer1{
+	height: 80px;
+	width:100%;
+	position: absolute;
+	top: 1500px;
+	background-color: #333;
+	text-align: center;
+	color: #FFFFFF;
+}
+.footer2{
+	height: 80px;
+	width:100%;
+	position: absolute;
+	top: 2000px;
+	background-color: #333;
+	text-align: center;
+	color: #FFFFFF;
+}
+.footer3{
+	height: 80px;
+	width:100%;
+	position: absolute;
+	top: 930px;
+	background-color: #333;
+	text-align: center;
+	color: #FFFFFF;
+}
+.footer4{
+	height: 80px;
+	width:100%;
+	position: absolute;
+	top: 4900px;
+	background-color: #333;
+	text-align: center;
+	color: #FFFFFF;
+}
+.footer5{
+	height: 80px;
+	width:100%;
+	position: absolute;
+	top: 1300px;
+	background-color: #333;
+	text-align: center;
+	color: #FFFFFF;
+}
